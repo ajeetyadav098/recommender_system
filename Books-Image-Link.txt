@@ -1,0 +1,10 @@
+website link: https://openlibrary.org/dev/docs/api/covers
+
+image-link: https://covers.openlibrary.org/b/isbn/{ISBN Number}-M.jpg
+
+in above image link:    S = small size image (like an icon)
+			M = medium size image(most suitable for our project)
+			L = Large size image 
+		
+	- ISBN number: each book in whole world have its own ISBN number (like a unique ID) using which we can find the book. 
+
